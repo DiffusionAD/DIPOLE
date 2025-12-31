@@ -33,7 +33,7 @@
 
 ## 📢 News
 
-- **Jan 1, 2026:** We released the official [website](), [repo]() and [paper]() for DIPOLE.
+- **Jan 1, 2026:** We released the official [website](https://lrmbbj.github.io/DIPOLE), [repo](https://github.com/LRMbbj/DIPOLE) and [paper]() for DIPOLE.
 
 ## 🔥 Quick Start
 
