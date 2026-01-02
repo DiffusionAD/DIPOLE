@@ -7,7 +7,7 @@
 <p align="center">
   <a href="">
     <img
-      src="https://img.shields.io/badge/DIPOLE-page-blue?logo=IcoMoon&logoColor=white"
+      src="https://img.shields.io/badge/DIPOLE-page-blue?logo=moonrepo&logoColor=white"
       alt="DIPOLE Website"
     />
   </a>
