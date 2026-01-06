@@ -5,13 +5,13 @@
 [Ruiming Liang\*](https://github.com/LRMbbj), [Yinan Zheng\*](https://github.com/ZhengYinan-AIR), [Kexin Zheng\*](https://github.com/Whiterrrrr), [Tianyi Tan\*](https://github.com/0ttwhy4), [Jianxiong Li](https://facebear-ljx.github.io/), Liyuan Mao, [Zhihao Wang](https://zh1hao.wang/), Guang Chen, Hangjun Ye, [Jingjing Liu](https://air.tsinghua.edu.cn/en/info/1046/1194.htm), Jinqiao Wang $\dagger$, [Xianyuan Zhan](https://zhanxianyuan.xyz/) $\dagger$
 
 <p align="center">
-  <a href="">
+  <a href="https://lrmbbj.github.io/DIPOLE/">
     <img
       src="https://img.shields.io/badge/DIPOLE-page-blue?logo=moonrepo&logoColor=white"
       alt="DIPOLE Website"
     />
   </a>
-  <a href="">
+  <a href="https://arxiv.org/pdf/2601.00898">
     <img
       src="https://img.shields.io/badge/DIPOLE-Paper-red?logo=arxiv&logoColor=red"
       alt="BAGEL Paper on arXiv"
@@ -33,6 +33,7 @@
 
 ## 📢 News
 
+- **Jan 6, 2026:** DIPOLE is now available on [arXiv](https://arxiv.org/pdf/2601.00898).
 - **Jan 1, 2026:** We released the official [website](https://lrmbbj.github.io/DIPOLE) and [repo](https://github.com/LRMbbj/DIPOLE) for DIPOLE.
 
 ## 🔥 Quick Start
@@ -89,5 +90,10 @@ Aggregate score over all single tasks for each category (average over 8 random s
 ## ✍️ Citation
 
 ```bibtex
-
+@article{liang2026dipole,
+  title={Dichotomous Diffusion Policy Optimization},
+  author={Ruiming Liang and Yinan Zheng and Kexin Zheng and Tianyi Tan and Jianxiong Li and Liyuan Mao and Zhihao Wang and Guang Chen and Hangjun Ye and Jingjing Liu and Jinqiao Wang and Xianyuan Zhan},
+  journal={arXiv preprint arXiv:2601.00898},
+  year={2026}
+}
 ```
